@@ -1,9 +1,10 @@
 # Project-3|| Amazon Review Analysis using Machine Learning.
 
 ![image](Images/amazon-logo.jpg)
-The goal of text classification is to automatically classify the text documents into one or more defined categories. Some examples of text classification are:
-Understanding audience sentiment from social media,
-Detection of spam and non-spam emails.
+The goal of this porject is text classification that is, to automatically classify the text documents into one or more defined categories. Some examples of text classification are:
+* Understanding audience sentiment from social media,
+* Detection of spam and non-spam emails.
+
 Text Classification is an example of supervised machine learning task since a labelled dataset containing text documents and their labels is used for train a classifier. An end-to-end text classification pipeline is composed of three main components:
 
 1. Dataset Preparation: The first step is the Dataset Preparation step which includes the process of loading a dataset and performing basic pre-processing. The dataset is then splitted into train and validation sets.

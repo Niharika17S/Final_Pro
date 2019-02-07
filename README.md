@@ -1,6 +1,6 @@
 # Project-3|| Amazon Review Analysis using Machine Learning.
+============================================================
 
-![image](Images/amazon-logo.jpg)
 
 The goal of this project is text classification that is, to automatically classify the text documents into one or more defined categories. Some examples of text classification are:
 * Understanding audience sentiment from social media,

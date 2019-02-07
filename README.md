@@ -48,3 +48,6 @@ Captured a small part of the dataset on which the model has been created:
 ![xnip2019-02-06_03-12-28](https://user-images.githubusercontent.com/41707119/52384817-04a0b480-2a4d-11e9-9f24-152a7aab5e25.jpg)
 
 
+Comparative view of two Model (SVM/Naive Bayes):
+------------------------------------------------
+![image](https://user-images.githubusercontent.com/41707119/52385094-23ec1180-2a4e-11e9-9d09-b6468624c372.png)

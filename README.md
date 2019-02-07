@@ -18,7 +18,9 @@ TextBlob,
 Logistics Regression for classification of the reivews.
 
 Data Source:
+
 ![image](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+
 =========================
 ## Sentiment Analysis:
 Opinion Mining (OM), also known as Sentiment Analysis (SA), is a  common text categorization task which involves extraction of sentiment, the positive or negative orientation that a writer expresses toward some object. 

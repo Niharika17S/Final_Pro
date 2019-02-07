@@ -28,6 +28,7 @@ STEPs:
 * Tokenize & POS Tagging/Remove stopwords
 * Testing and Evaluate with Logistic Regression , Naive Bayes, SVM(support vector machine), K-Folds
 * Train for accuracy
+* Flask App for '.pkl' model 
 
 Data exploration and graphs to understand:
 ------------------------------------------

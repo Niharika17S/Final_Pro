@@ -29,4 +29,20 @@ STEPs:
 * Testing and Evaluate with Logistic Regression , Naive Bayes, SVM(support vector machine), K-Folds
 * Train for accuracy
 
+Data exploration and graphs to understand:
+------------------------------------------
+
+![xnip2019-02-06_02-32-25](https://user-images.githubusercontent.com/41707119/52384805-04081e00-2a4d-11e9-8234-f70b41a992c8.jpg)
+![xnip2019-02-06_02-32-53](https://user-images.githubusercontent.com/41707119/52384806-04081e00-2a4d-11e9-9702-d8c60e86ce22.jpg)
+![xnip2019-02-06_02-33-22](https://user-images.githubusercontent.com/41707119/52384807-04081e00-2a4d-11e9-9fb3-b8e6503445d4.jpg)
+![xnip2019-02-06_02-34-00](https://user-images.githubusercontent.com/41707119/52384808-04081e00-2a4d-11e9-8b42-d43b3d4e98e2.jpg)
+![xnip2019-02-06_02-34-49](https://user-images.githubusercontent.com/41707119/52384809-04081e00-2a4d-11e9-84b4-6f0352e58e48.jpg)
+![xnip2019-02-06_02-37-41](https://user-images.githubusercontent.com/41707119/52384811-04081e00-2a4d-11e9-879e-1977bde0ac13.jpg)
+![xnip2019-02-06_02-38-35](https://user-images.githubusercontent.com/41707119/52384812-04081e00-2a4d-11e9-911a-0f86ca6430e7.jpg)
+![xnip2019-02-06_02-39-27](https://user-images.githubusercontent.com/41707119/52384813-04a0b480-2a4d-11e9-8702-303f6f172bc2.jpg)
+![xnip2019-02-06_02-42-19](https://user-images.githubusercontent.com/41707119/52384814-04a0b480-2a4d-11e9-9ae9-cb790cc65a28.jpg)
+![xnip2019-02-06_03-09-40](https://user-images.githubusercontent.com/41707119/52384815-04a0b480-2a4d-11e9-9edd-a3110cce8f97.jpg)
+![xnip2019-02-06_03-10-56](https://user-images.githubusercontent.com/41707119/52384816-04a0b480-2a4d-11e9-9959-a3dd2395ab83.jpg)
+![xnip2019-02-06_03-12-28](https://user-images.githubusercontent.com/41707119/52384817-04a0b480-2a4d-11e9-9f24-152a7aab5e25.jpg)
+![xnip2019-02-06_11-42-55](https://user-images.githubusercontent.com/41707119/52384818-04a0b480-2a4d-11e9-9b15-0e9c1ccb64cd.jpg)
 

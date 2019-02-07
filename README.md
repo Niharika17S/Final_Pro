@@ -1,7 +1,7 @@
 # Final_Pro|| Analysis On Amazon Reviews:
 ==============================================
 ### Problem Solving using Machine Learning
-
+![image](https://user-images.githubusercontent.com/41707119/52385242-b2609300-2a4e-11e9-86c0-cfdc5ccf073a.png)
 ### Scope of the Analysis :
 
 1. What product category is widely rated.

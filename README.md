@@ -51,3 +51,4 @@ Captured a small part of the dataset on which the model has been created:
 Comparative view of two Model (SVM/Naive Bayes):
 ------------------------------------------------
 ![image](https://user-images.githubusercontent.com/41707119/52385094-23ec1180-2a4e-11e9-9d09-b6468624c372.png)
+![image](https://user-images.githubusercontent.com/41707119/52385160-71687e80-2a4e-11e9-9458-476adef98869.png)

@@ -52,3 +52,7 @@ Comparative view of two Model (SVM/Naive Bayes):
 ------------------------------------------------
 ![image](https://user-images.githubusercontent.com/41707119/52385094-23ec1180-2a4e-11e9-9d09-b6468624c372.png)
 ![image](https://user-images.githubusercontent.com/41707119/52385160-71687e80-2a4e-11e9-9458-476adef98869.png)
+
+Sentiment Analysis:
+-------------------
+![image](https://user-images.githubusercontent.com/41707119/52385358-3286f880-2a4f-11e9-87ac-a5794d4f9d1c.png)

@@ -32,6 +32,8 @@ STEPs:
 Data exploration and graphs to understand:
 ------------------------------------------
 
+Captured a small part of the dataset on which the model has been created:
+![xnip2019-02-06_11-42-55](https://user-images.githubusercontent.com/41707119/52384818-04a0b480-2a4d-11e9-9b15-0e9c1ccb64cd.jpg)
 ![xnip2019-02-06_02-32-25](https://user-images.githubusercontent.com/41707119/52384805-04081e00-2a4d-11e9-8234-f70b41a992c8.jpg)
 ![xnip2019-02-06_02-32-53](https://user-images.githubusercontent.com/41707119/52384806-04081e00-2a4d-11e9-9702-d8c60e86ce22.jpg)
 ![xnip2019-02-06_02-33-22](https://user-images.githubusercontent.com/41707119/52384807-04081e00-2a4d-11e9-9fb3-b8e6503445d4.jpg)
@@ -44,5 +46,5 @@ Data exploration and graphs to understand:
 ![xnip2019-02-06_03-09-40](https://user-images.githubusercontent.com/41707119/52384815-04a0b480-2a4d-11e9-9edd-a3110cce8f97.jpg)
 ![xnip2019-02-06_03-10-56](https://user-images.githubusercontent.com/41707119/52384816-04a0b480-2a4d-11e9-9959-a3dd2395ab83.jpg)
 ![xnip2019-02-06_03-12-28](https://user-images.githubusercontent.com/41707119/52384817-04a0b480-2a4d-11e9-9f24-152a7aab5e25.jpg)
-![xnip2019-02-06_11-42-55](https://user-images.githubusercontent.com/41707119/52384818-04a0b480-2a4d-11e9-9b15-0e9c1ccb64cd.jpg)
+
 

@@ -1,0 +1,68 @@
+
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="add-recipe">
+  <div class="page-header">
+    <h2>Real Time Testing of Reviews with SVM Model</h2>
+  </div>
+ 
+ <div class="container">
+    <form method="post" enctype="multipart/form-data">
+	{{ form.hidden_tag() }}
+	<div class="form-group row">
+	 <legend for="recipe_title" class="col-form-legend col-sm-3">{{form.category.label}} </legend>
+	 <legend for="recipe_title" class="col-form-legend col-sm-3">{{form.category}} </legend>
+	
+    </div>
+
+	 <div class="form-group row">
+	  <legend for="recipe_title" class="col-form-legend col-sm-3">{{form.verified_Purchase.label}}</legend>
+	  <legend for="recipe_title" class="col-form-legend col-sm-3"> {{form.verified_Purchase()}} </legend>
+
+          
+    
+    </div>
+	 <div class="form-group row">
+      <legend for="recipe_title" class="col-form-legend col-sm-3">{{form.Rating.label}} </legend>
+	  <legend for="recipe_title" class="col-form-legend col-sm-3">  {{form.Rating()}} </legend>
+
+    
+    </div>	
+    <div class="form-group row">
+      <legend for="recipe_ingredients" class="col-form-legend col-sm-3">{{ form.review.label}}</legend>
+      <div class="col-sm-6">
+        {{ form.review(cols='100',rows='5')}}
+        
+      </div>
+      
+    </div>	
+	
+	<div class="form-group row">
+      <div class="offset-sm-2 col-sm-10">
+        <button type="submit" class="btn btn-primary btn-lg btn-block" id="load" data-loading-text="<i class='fa fa-5x fa-spinner fa-spin'></i> Processing Order">Submit</button>
+      </div>
+    </div>	
+
+
+  </form>
+     {% if prediction %}
+      <div class="row">
+        <img src="{{url_for('static', filename='images/' + prediction + '.jpeg')}}"
+            height="100"  
+        /> 
+        <br />
+        The predicted probability is : <p style="color:red;">{{ prob }} .</p>
+        <div class="six columns">
+         <!--  Your Chart or any other form of visualizations -->
+         <div id="chart"></div>
+        </div>
+      </div>
+    {% endif %}
+ </div>
+ </div>
+ 
+{% endblock %} 
+  
+ 
+

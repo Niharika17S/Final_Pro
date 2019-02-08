@@ -1,0 +1,59 @@
+
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="add-recipe">
+  <div class="page-header">
+    <h2>Analysis Benchmarking</h2>
+  </div>
+ 
+ <div class="container">
+    <form method="post" enctype="multipart/form-data">
+	{{ form.hidden_tag() }}
+
+    <div class="form-group row">
+      <legend for="recipe_ingredients" class="col-form-legend col-sm-3">{{ form.review.label}}</legend>
+      <div class="col-sm-6">
+        {{ form.review(cols='100',rows='5')}}
+        
+      </div>
+      
+    </div>	
+	
+	<div class="form-group row">
+      <div class="offset-sm-2 col-sm-10">
+        <button type="submit" class="btn btn-primary btn-lg btn-block" id="load" data-loading-text="<i class='fa fa-5x fa-spinner fa-spin'></i> Processing Order">Submit</button>
+      </div>
+    </div>	
+
+
+  </form>
+  
+       <div class="row">
+	   <TABLE  BORDER="5"    WIDTH="82%"   CELLPADDING="4" CELLSPACING="3">
+		<TR>
+		<TH COLSPAN="2" style="background-color:yellow"><BR><H3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESULT (in Percentage)</H3>
+		</TH>
+		</TR>
+	<TR>
+      <TH><BR>NLTK Snow Stemmer, Stop Word, No POS w/ Scikit Logistic Regression</BR></TH>
+      <TH><BR>No Stop Word, No POS w/ NLTK Naive Bayes </BR></TH>
+   </TR>
+   <TR ALIGN="CENTER">
+      <TD >{{ prob0 }}</TD>
+      <TD>{{ prob1 }} </TD>
+   </TR>
+		</TABLE>
+ 
+      </div>
+	
+   
+
+ </div>
+ </div>
+ 
+{% endblock %} 
+  
+ 
+
